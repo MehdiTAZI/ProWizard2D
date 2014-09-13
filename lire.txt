@@ -1,0 +1,41 @@
+Ceci est un Moteur de jeux 2D realiseé il ya deja de cela 2 ans , j'ai penseé le mettre en opensource poue la communoté CPPFRANCE :).
+son devlepomement a eté abondoneé ( je programme plus, trop de boulot :( )
+
+la source on elle m'aime conteint le moteur de jeux et un exemple d'utilisation ( UN JEU d'avion realiser grace au moteur en peu de temp ) 
+
+le moteur peut facilement etre porté sous dautre system dexploitation vue l'utilisation de L'Opengl,SDL,FMOD,DEVIL
+pour l'exemple j'ai utiliser a lib de Funto TGALOADER ( que je remarcier d'alleur :) )
+
+le moteur offre les posibilité suivante : 
+
+-Moteur de jeu Orienté Objet : Template , Heritage , Polymorphisme ....
+-Gestion des sprites animé et Title
+-Gestion des  Forme Geometrique Basic
+-Gestion de quelque effet basic telle que : Blending,Lighting,Fog,Scrolling...
+-Ecrire un Texte Sur Lecran
+-Le Debut d'un GUI manager
+-Le Debut d'un Logger et d'un debugger
+-Gestion Des Fichiers
+-Mini Bibliotheque Mathematique
+-Gestion de la joystick
+-Perosalisation de la fenetre dexecusion
+-Implantation d'une machine a etat
+-Gestion des colision BoudingBox
+-Moteur De Sons(Sound Engine) qui peut lire plusieur format : ( merci FMOD )
+-Gestion des texture (Texture Engine ) capable d'implanter plusieur format : (Merci Devil( OpenIL)
+-Gestion des chaine de caractere basic
+-Class Timer
+-Class Couleur
+-Class Array
+-.............( a vous de decouvrir ^^ ) 
+
+le projet est realisé sous Visual Studio 2005  il  ce compil aussi sous les version VS6 VS 2003 ET 2005
+
+Pour creé votre propore jeu ouvrez le projet vous trouverez deux onglet : 
+Engine et Application
+
+Engine : Conteint le code du moteur => vous pouvez ajouter modifier des fonctions :)
+Application : cest ici que vous aller programmer proporement votre jeux :)
+
+Bonnne Chance a tous :)
+PS : Le Projet en lui meme a eté abondoner ( manque de temps ) alors il est probable de trouver plusieurs erreurs logique ^^

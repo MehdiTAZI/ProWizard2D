@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pro Wizard 2D">
+</Property><Property Name="Fichier solution" Value="E:\Programmation\Mes Anciene Creation\Visual C++\ENGINE\Zephyr\Zephyr\Pro Wizard 2D.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="E:\Programmation\Mes Anciene Creation\Visual C++\ENGINE\Zephyr\Zephyr\Pro Wizard 2D.suo">
+</Property><Property Name="Date" Value="jeudi 29 mai 2008">
+</Property><Property Name="Time" Value="16:35">
+</Property><Property Name="Numéro de journal" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Pro Wizard 2D.sln" Description="Fichier correctement sauvegardé en tant que E:\Programmation\Mes Anciene Creation\Visual C++\ENGINE\Zephyr\Zephyr\Pro Wizard 2D.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Pro Wizard 2D.suo" Description="Fichier correctement sauvegardé en tant que E:\Programmation\Mes Anciene Creation\Visual C++\ENGINE\Zephyr\Zephyr\Pro Wizard 2D.suo.old">
+</Event><Event ErrorLevel="0" Project="Pro Wizard 2D" Source="Pro Wizard 2D.vcproj" Description="Le déploiement Web sur le serveur IIS local IIS n'est plus pris en charge. L'outil de génération Déploiement Web a été supprimé des paramètres de votre projet.">
+</Event><Event ErrorLevel="1" Project="Pro Wizard 2D" Source="Pro Wizard 2D.vcproj" Description="Cette application a été mise à jour pour inclure les paramètres liés à la fonctionnalité Contrôle de compte d'utilisateur de Windows Vista. Par défaut, lorsqu'elle est exécutée sur Windows Vista avec le Contrôle de compte d'utilisateur activé, cette application est marquée pour s'exécuter avec les mêmes privilèges que le processus qui l'a lancée. Ce marquage empêche l'application de s'exécuter avec la virtualisation. Vous pouvez changer les paramètres du Contrôle de compte d'utilisateur dans les pages de propriétés du projet.">
+</Event><Event ErrorLevel="0" Project="Pro Wizard 2D" Source="Pro Wizard 2D.vcproj" Description="Fichier projet correctement sauvegardé en tant que 'E:\Programmation\Mes Anciene Creation\Visual C++\ENGINE\Zephyr\Zephyr\Pro Wizard 2D.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="Pro Wizard 2D" Source="Pro Wizard 2D.vcproj" Description="Mise à niveau du projet terminée.">
+</Event><Event ErrorLevel="3" Project="Pro Wizard 2D" Source="Pro Wizard 2D.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pro Wizard 2D.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="Pro Wizard 2D.sln" Description="Converted">
+</Event></UpgradeLog>
